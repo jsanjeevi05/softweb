@@ -608,13 +608,3 @@ body{
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
-
-
-## OUTPUT:
-
-
-## HTML VALIDATOR:
-
-
-## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
